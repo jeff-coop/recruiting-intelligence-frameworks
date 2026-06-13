@@ -22,33 +22,33 @@ The goal is to better understand:
 
 ### Candidate Evaluation
 
-* Candidate Evaluation Framework
-* Technical Resume Signals
-* GitHub Signals
-* Open Source Signals
-* Engineering Leadership Signals
-* Research Signals
+- [Candidate Evaluation Framework](./Candidate%20Evaluation%20Framework.md)
+- [Technical Resume Signals](./Technical%20Resume%20Signals.md)
+- [GitHub Signals](./GitHub%20Signals.md)
+- [Open Source Signals](./Open%20Source%20Signals.md)
+- [Engineering Leadership Signals](./Engineering%20Leadership%20Signals.md)
+- [Research Signals](./Research%20Signals.md)
 
 ### Early Talent
 
-* University Signals
-* Internship Signals
-* Research Lab Signals
-* Fellowship Signals
+- [University Signals](./University%20Signals.md)
+- [Internship Signals](./Internship%20Signals.md)
+- [Research Lab Signals](./Research%20Lab%20Signals.md)
+- [Fellowship Signals](./Fellowship%20Signals.md)
 
 ### Talent Intelligence
 
-* Talent Intelligence Framework
-* Market Mapping Framework
-* Competitive Landscape Framework
-* Engineering Ecosystem Framework
+- [Talent Intelligence Framework](./Talent%20Intelligence%20Framework.md)
+- [Market Mapping Framework](./Market%20Mapping%20Framework.md)
+- [Competitive Landscape Framework](./Competitive%20Landscape%20Framework.md)
+- [Engineering Ecosystem Framework](./Engineering%20Ecosystem%20Framework.md)
 
 ### Recruiting
 
-* Intake Meeting Framework
-* Candidate Experience Framework
-* Hiring Manager Alignment Framework
-* Closing Framework
+- [Intake Meeting Framework](./Intake%20Meeting%20Framework.md)
+- [Candidate Experience Framework](./Candidate%20Experience%20Framework.md)
+- [Hiring Manager Alignment Framework](./Hiring%20Manager%20Alignment%20Framework.md)
+- [Closing Framework](./Closing%20Framework.md)
 
 ---
 
